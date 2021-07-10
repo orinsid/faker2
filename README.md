@@ -66,7 +66,6 @@ docker exec -it QL bash -c "apk add --no-cache build-base g++ cairo-dev pango-de
 ## Special thanks to:
 
 
-
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@chavyleung](https://github.com/chavyleung)
